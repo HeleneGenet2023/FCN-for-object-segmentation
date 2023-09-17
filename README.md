@@ -5,6 +5,9 @@ FCN usage for semantic segmentation on a highway dataset
 
 The following script performs image segmentation using a Fully Convolutional Network (FCN) built upon the VGG16 architecture. The FCN is trained to segment objects from the background in input images. This script includes functions to load data, preprocess groundtruth data, build the FCN model, visualize predictions, and create a video from the segmentation outputs.
 
+![Segmentation Output](segmentation_output.gif)
+
+
 ## Dataset
 
 The script is designed to work with data from the ChangeDetection.net (CDnet) 2012 dataset, specifically the highway sequence. You can obtain the dataset from the [ChangeDetection.net website](http://changedetection.net/)
