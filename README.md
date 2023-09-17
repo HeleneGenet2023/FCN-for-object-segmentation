@@ -7,13 +7,13 @@ The following script performs image segmentation using a Fully Convolutional Net
 
 ## Requirements
 
-Here are the needed packages to run the script: 
-  -os
-  -Numpy
-  -Matplotlib
-  -Scikit-Learn
-  -Tensorflow (2.x or later)
-  -Opencv-python
+Needed packages to run the script:
+- os
+- Numpy
+- Matplotlib
+- Scikit-Learn
+- Tensorflow (2.x or later)
+- Opencv-pytho
 
 You can run the following command to install these packages:
 pip install numpy matplotlib scikit-learn tensorflow opencv-python-headless
