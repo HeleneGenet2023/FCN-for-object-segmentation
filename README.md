@@ -22,6 +22,6 @@ pip install numpy matplotlib scikit-learn tensorflow opencv-python-headless
   
 ## Output
 The script will output the following:
-  -Test loss: Printed in the console.
-  -Viasualizations: Displayed using matplotlib
-  -Video: A video showing the segmentation output saved as 'segmentation_output.mp4' in the script<s directory.
+- Test loss: Printed in the console.
+- Visualizations: Displayed using matplotlib
+- Video: A video showing the segmentation output saved as 'segmentation_output.mp4' in the script's directory.
